@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+ 
+[HKEY_CLASSES_ROOT\KenjiNoteMastodonClient]
+@="URL:Mastodon Authorization Test Protocol"
+"URL Protocol"=""
+ 
+[HKEY_CLASSES_ROOT\KenjiNoteMastodonClient\DefaultIcon]
+ 
+[HKEY_CLASSES_ROOT\KenjiNoteMastodonClient\shell]
+ 
+[HKEY_CLASSES_ROOT\KenjiNoteMastodonClient\shell\open]
+ 
+[HKEY_CLASSES_ROOT\KenjiNoteMastodonClient\shell\open\command]
+@="\"C:\\Users\\kenji\\Desktop\\新しいフォルダー\\x64\\Debug\\MastodonGetAccessTokenWithAuthorizationCode.exe\" \"%1\""
